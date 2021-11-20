@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-20T13:39:20.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="qrUd8N4WufKwYkDsPd_Q" version="15.8.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-20T13:40:40.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="6qKbld_VDgBgschkF4Fp" version="15.8.3" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="splash">
     <mxGraphModel dx="786" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,11 +172,14 @@
       <root>
         <mxCell id="EySV8SmrMZvwTpu5ToDG-0" />
         <mxCell id="EySV8SmrMZvwTpu5ToDG-1" parent="EySV8SmrMZvwTpu5ToDG-0" />
-        <mxCell id="EySV8SmrMZvwTpu5ToDG-2" value="connect mqtt service" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=left;" vertex="1" parent="EySV8SmrMZvwTpu5ToDG-1">
-          <mxGeometry x="230" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="EySV8SmrMZvwTpu5ToDG-2" value="connect mqtt service" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;align=left;" parent="EySV8SmrMZvwTpu5ToDG-1" vertex="1">
+          <mxGeometry x="420" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EySV8SmrMZvwTpu5ToDG-3" value="Main" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="EySV8SmrMZvwTpu5ToDG-1">
+        <mxCell id="EySV8SmrMZvwTpu5ToDG-3" value="Main" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=32;" parent="EySV8SmrMZvwTpu5ToDG-1" vertex="1">
           <mxGeometry x="240" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tw_tIr8MnP_IJW92tr_q-0" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="EySV8SmrMZvwTpu5ToDG-1">
+          <mxGeometry x="80" y="80" width="200" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
